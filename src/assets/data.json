@@ -1,0 +1,128 @@
+{
+    "bio": {
+        "name": "Ayush Jain",
+        "age": 20,
+        "gender": "male",
+        "nationality": "Indian",
+        "title": "Web Developer",
+        "others": [
+            "UI/Ux Designing",
+            "Graphic Designing"            
+        ]
+    },
+    "skills": [
+        "NodeJS",
+        "ExpressJS",        
+        "ReactJS",
+        "Javascript",
+        "HTML/CSS",
+        "MongoDB",        
+        "C/C++",
+        "Linux",
+        "Bash",
+        "Git/Github",
+        "Go"
+    ],
+    "specialty": {
+        "frontend": [
+            "ReactJS",
+            "HTML/CSS/Javascript"
+        ],
+        "backend": [
+            "NodeJS",
+            "ExpressJS"
+        ],
+        "database": [
+            "MongoDB"
+        ],
+        "Designing Tools":[
+            "Canva",
+            "Figma",
+            "Illustrator",
+            "Adobe Photoshop",
+            "Filmora 11"
+        ]
+    },
+    "education": {
+        "B.Tech": {
+            "college": "IIIT-Bhopal",
+            "course": "Information Technology",
+            "duration": "2021 - 2025"
+        }
+    },
+    "projects": {
+        "core": {
+            "Fern Store": {
+                "description": "This plant e-commerce app features plant categories, JWT authentication, cart and wishlist management, public and private routes,and sorting/filtering options for plant searches.",
+                "link": "https://fernstore.netlify.app/",
+                "repo":"https://github.com/Ayush2966/Fern-store/tree/main",
+                "stack": [
+                    "Reacct.js",
+                    "HTML,CSS/JS"
+                ]
+            },
+            "Hand-reacting": {
+                "description": "A react JS based app that enables users to create handwritten writing from input in the form of a downloadable image.",
+                "more-features":"Other features include speech to text converter and text extraction from photos before typeface conversion.",
+                "link": "https://hand-reacting-1.vercel.app/",
+                "repo":"https://github.com/Ayush2966/Hand-Reacting",
+                "stack": [
+                    "React.js",                    
+                    "HTML/CSS/JS"
+                ]
+            },
+            "SumZ Article AI": {
+                "description": "Single-page React application that summarises any article using OpenAI GPT-4",
+                "link": "https://article-ai-ten.vercel.app/",
+                "repo":"https://github.com/Ayush2966/Article-AI",
+                "stack": [
+                    "API",
+                    "Javascript",
+                    "HTML,CSS"
+                ]
+            }
+        },
+        
+        "collection-projects": {
+            "Chrome Extension": {
+                "description": "Chrome extension made by me to enhance browing experience.",
+                "link": "https://github.com/Ayush2966/Chrome-Extensions",
+                "stack": [
+                    "HTML",
+                    "CSS",
+                    "Javascript",
+                    "ReacctJs"
+                ]
+            },
+            "Animated Text": {
+                "description": "Repo contain various text animation",
+                "link": "https://github.com/Ayush2966/Animated-Text",
+                "stack": [
+                    "HTML",
+                    "CSS",
+                    "Javascript",
+                    "particle JS"
+                ]
+            }
+        },
+
+        "Learning":{
+            "Go-Lang":{
+                "link":"https://github.com/Ayush2966/Go-lang"
+            },
+            "Competitive Programming":{
+                "link":"https://github.com/Ayush2966/Leetcode"
+            }
+        }
+        
+    },
+
+    "socials": {
+        "website": "`${window.location.href}`",
+        "Linkedin": "https://www.linkedin.com/in/ayush-jain-315b51228/",
+        "Github": "https://github.com/Ayush2966",
+        "Blog": "https://medium.com/@ayushjain",
+        "Email": "ajsa02812@gmail.com",
+        "Resume":"https://drive.google.com/file/d/1YB8tyWqnZx8gffu_J7VV863sJyDyi-9x/view?usp=sharing"
+    }
+}
