@@ -58,7 +58,7 @@
                 "repo":"https://github.com/Ayush2966/Fern-store/tree/main",
                 "stack": [
                     "React.js",
-                    "HTML,CSS/JS"
+                    "HTML/CSS/Javascript"
                 ]
             },
             "Hand-reacting": {
@@ -68,7 +68,7 @@
                 "repo":"https://github.com/Ayush2966/Hand-Reacting",
                 "stack": [
                     "React.js",                    
-                    "HTML/CSS/JS"
+                    "HTML/CSS/Javascript"
                 ]
             },
             "SumZ Article AI": {
@@ -78,7 +78,7 @@
                 "stack": [
                     "API",
                     "Javascript",
-                    "HTML,CSS"
+                    "HTML/CSS"
                 ]
             }
         },
@@ -98,9 +98,7 @@
                 "description": "Repo contain various text animation",
                 "link": "https://github.com/Ayush2966/Animated-Text",
                 "stack": [
-                    "HTML",
-                    "CSS",
-                    "Javascript",
+                    "HTML/CSS/Javascript",
                     "particle JS"
                 ]
             }
